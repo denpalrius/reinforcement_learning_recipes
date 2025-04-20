@@ -1,8 +1,10 @@
 numpy
 pandas
+seaborn
 
 matplotlib
 seaborn
 
-gymnasium
+# gymnasium
 
+gymnasium[toy-text]
